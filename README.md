@@ -1,4 +1,6 @@
-
+<div align="middle">
+<img src="https://github.com/newmad/NicePlaceWeather/blob/master/assets/image/npc-logo.png" height="250px" >
+</div>
 <h1 align="center">☀️ ☔️NicePlaceWeather❄️ ⛄️</h1>
 
 <p align="center">
