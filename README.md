@@ -1,5 +1,5 @@
 
-<h1 align="center">NicePlaceWeather☀️ ☔️ ☁️ ❄️ ⛄️ </h1>
+<h1 align="center">☀️ ☔️NicePlaceWeather❄️ ⛄️</h1>
 
 <p align="center">
 	<a href="https://goree.io/events/3"><img src="https://img.shields.io/badge/Planet%20Hackathon-1st-red.svg"></a>
