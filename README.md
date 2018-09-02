@@ -29,7 +29,14 @@
 
 ## Installation
 
-설치
+```bash
+~ $ git clone https://github.com/newmad/newmad-server
+~ $ cd ./newmad-server
+~/newmad-server $ pip install -r requrements.txt
+~/newmad-server $ export API_KEY={YOUR_API_KEY}
+~/newmad-server $ export DB_SERVER={YOUR_DB_SERVER}
+~/newmad-server $ sudo FLASK_APP=api/api.py flask run --host=0.0.0.0 --port=80
+```
 
 ## License
 
