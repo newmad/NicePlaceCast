@@ -1,7 +1,7 @@
 <div align="middle">
-<img src="https://github.com/newmad/NicePlaceWeather/blob/master/assets/image/npc-logo.png" height="250px" >
+<img src="https://github.com/newmad/NicePlaceCast/blob/master/assets/image/npc-logo.png" height="250px" >
 </div>
-<h1 align="center">☀️ ☔️NicePlaceWeather❄️ ⛄️</h1>
+<h1 align="center">☀️ ☔️NicePlaceCast❄️ ⛄️</h1>
 
 <p align="center">
 	<a href="https://goree.io/events/3"><img src="https://img.shields.io/badge/Planet%20Hackathon-1st-red.svg"></a>
